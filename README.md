@@ -79,7 +79,7 @@ Toda la información estará como PDFs en los folderes adjuntos, además de form
 
 ## Logueo y registro por primera vez
 
-![#Sesion Desarrollada](https://github.com/AotinianoZ/Geoscience_Multiverse) !!Esto solo funcionará la tarde del curso corto!!
+![Sesion Desarrollada](https://github.com/AotinianoZ/Geoscience_Multiverse) !!Esto solo funcionará la tarde del curso corto!!
 
 
 ## Cronograma

@@ -88,7 +88,7 @@ Agenda
 
 1. Introducción: Instalación de softwares (1 semana antes).
 
-    Parte II:
+`Parte II`:
 
 1. **Joseps Andrade** Tema IA: Base de Datos Geoespacial.
 2. **Alonso Otiniano** Tema IIA: R y Rstudio.
@@ -99,7 +99,7 @@ Agenda
 7. **Fernandez Geraldino** Tema IID1: AED Geoquímica Sedimentos de Quebrada (Proyecto Minero Colca y Jala Oca).
 8. **Fernandez Geraldino** Tema IID2: AED Geoquímica de Rocas (Proyecto Minero Colca y Jala Oca).
 
-    Parte IIIA:
+`Parte IIIA`:
 
 1. **Alonso Otiniano** Tema IIIA:
 
@@ -108,14 +108,14 @@ Agenda
 1.3 Introducción a 3D análisis en R.
 1.4 Machine Learning Aplicado a Geología.
 
-    Parte IIIB:
+`Parte IIIB`:
 
 1. Machine Learning Aplicado a Aguas Superficiales.
 2. Machine Learning No Supervisado en Clusterización Geoquímica.
 3. Artificial Neural Networks aplicado a Peligros Geológicos.
 4. Design of a predictive model of a rock breakage by blasting using Artificial Neural Networks.
 
-    Parte IV:
+`Parte IV`:
 
 *Desarrollos Diversos Interactivos*: Dashboard, Presentaciones web-base, aplicativos software, APIs Machine Learning, Paquetes y Modelos.
 

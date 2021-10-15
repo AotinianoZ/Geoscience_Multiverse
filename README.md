@@ -36,7 +36,7 @@ Este repositorio es la base para el desarrollo del curso Geodatabase, Geo-Statis
 **Co-instructores**
 
 * Carlos Geraldino [@CarlosCouch23](https://twitter.com/CarlosCouch23)
-* Roberto Saenz [@roberthcero](https://twitter.com/roberthcero)
+* Roberth Saenz [@roberthcero](https://twitter.com/roberthcero)
 
 
 ## Panorama

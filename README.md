@@ -101,15 +101,12 @@ Agenda
 
 `Parte IIIA`:
 
-1. **Alonso Otiniano** Tema IIIA:
+**Alonso Otiniano**
 
-1.1 Introducción a Data Geoespacial en R.
-
-1.2 Introducción a Geoestadística en R.
-
-1.3 Introducción a 3D análisis en R.
-
-1.4 Machine Learning Aplicado a Geología.
+1. Introducción a Data Geoespacial en R.
+2. Introducción a Geoestadística en R.
+3. Introducción a 3D análisis en R.
+4. Machine Learning Aplicado a Geología.
 
 `Parte IIIB`:
 

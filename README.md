@@ -11,7 +11,7 @@ Este repositorio es la base para el desarrollo del curso Geodatabase, Geo-Statis
 
 :spiral_calendar: Octubre - Noviembre, 2021 
 
-:camera: Comienza Domingo, 31 de Octubre :jack_o_lantern:
+:runner: Comienza Domingo, 31 de Octubre :jack_o_lantern:
 
 :run: Sabados - Domingos
 

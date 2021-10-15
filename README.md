@@ -13,7 +13,7 @@ Este repositorio es la base para el desarrollo del curso Geodatabase, Geo-Statis
 
 :camera: Comienza Domingo, 31 de Octubre :jack_o_lantern:
 
-:green_book: Sabados - Domingos
+:run: Sabados - Domingos
 
 :alarm_clock:     14:00 - 18:00  
 

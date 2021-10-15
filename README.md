@@ -91,16 +91,19 @@ Agenda
 
 1. Introducción: Instalación de softwares (1 semana antes).
 
-`Parte II`:
+`Parte I`:
 
 1. **Joseps Andrade** Tema IA: Base de Datos Geoespacial.
-2. **Alonso Otiniano** Tema IIA: R y Rstudio.
-3. **Alonso Otiniano** Tema IIB: Conexión y Estadística Básica.
-4. **Alonso Otiniano** Tema IIC1: AED Aguas Superficiales (Subcuenca Hornillos Alto).
-5. **Joseps Andrade** Tema IIC2: AED Aguas Subterráneas (Zona Sur del Perú).
-6. **Alonso Otiniano** Tema IIC3: AED Suelos (Honoria-Tournavista).
-7. **Fernandez Geraldino** Tema IID1: AED Geoquímica Sedimentos de Quebrada (Proyecto Minero Colca y Jala Oca).
-8. **Fernandez Geraldino** Tema IID2: AED Geoquímica de Rocas (Proyecto Minero Colca y Jala Oca).
+
+`Parte II`:
+
+1. **Alonso Otiniano** Tema IIA: R y Rstudio.
+2. **Alonso Otiniano** Tema IIB: Conexión y Estadística Básica.
+3. **Alonso Otiniano** Tema IIC1: AED Aguas Superficiales (Subcuenca Hornillos Alto).
+4. **Joseps Andrade** Tema IIC2: AED Aguas Subterráneas (Zona Sur del Perú).
+5. **Alonso Otiniano** Tema IIC3: AED Suelos (Honoria-Tournavista).
+6. **Fernandez Geraldino** Tema IID1: AED Geoquímica Sedimentos de Quebrada (Proyecto Minero Colca y Jala Oca).
+7. **Fernandez Geraldino** Tema IID2: AED Geoquímica de Rocas (Proyecto Minero Colca y Jala Oca).
 
 `Parte IIIA`:
 

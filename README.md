@@ -5,7 +5,7 @@ Geoscience Multiverse
 
 by A.Otiniano, J.Andrade
 
-Este repositorio es la base para el desarrollo del curso Geodatabase, Geo-Statistics, Machine Learning and Big Data: Applied to Geology (SQL – R – Qgis - Python))
+Este repositorio es la base para el desarrollo del curso Geodatabase, Geo-Statistics, Machine Learning and Big Data: Applied to Geology (SQL – R – Qgis - Python)
 
 -----
 

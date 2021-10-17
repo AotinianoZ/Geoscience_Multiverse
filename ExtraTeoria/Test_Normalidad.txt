@@ -1,0 +1,41 @@
+Estimados compañeros y profesor,
+
+Revisando bibliografía acerca de los test de normalidad encontré algo distinto al que nos envío (el profesor) el test de normalidada de kolmogov-
+
+smirnov, del cual mencionan que es más para comprobación de la bondad de ajuste, siendo el mejor el test de Kolomogorov-Smirnov con 
+
+corrección de Lilliefors. Además se adiciona el test de Ryan-Joiner que es similar al de Shapiro-Wilk  y el de Anderson Darling como alternativos y 
+
+mejores para el test de normalidad. Aquí algunas de las páginas que revisé:
+
+Mintab Support (Anderson Darling, Ryan-Joiner y Kolomogorov-Smirnov):
+
+https://support.minitab.com/en-us/minitab/18/help-and-how-to/statistics/basic-statistics/supporting-topics/normality/test-for-normality/
+
+Para Shapiro Will y lilliefors:
+
+https://picandoconr.wordpress.com/2016/08/30/normalidad-shapiro-test-y-lillie-test/
+
+https://www.spss-tutorials.com/spss-shapiro-wilk-test-for-normality/
+
+Para Lilliefors (Kolomogorov-Smirnov) test for normality
+
+http://finzi.psych.upenn.edu/R/library/nortest/html/lillie.test.html
+
+https://vivaelsoftwarelibre.com/test-de-kolmogorov-smirnov-en-r/
+
+https://www.rdocumentation.org/packages/nortest/versions/1.0-4/topics/lillie.test
+
+Mi consulta aparte de compartir la información va a cual es el mejor test y de que depende (de la cantidad de muestras, de el tipo de data, etc).
+
+Además adjunto una página donde se describe el manejo de RStudio con una infinidad de ejemplos:
+
+https://www.guru99.com/r-programming-introduction-basics.html
+
+Posdata: Profesor porfavor si podía enviar información acerca del análisis Cluster (libros, papers, links, entre otros).
+
+Muy agradecido de antemano.
+
+Saludos Cordiales
+
+Alonso Otiniano Zavala

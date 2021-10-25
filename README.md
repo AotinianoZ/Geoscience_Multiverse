@@ -116,6 +116,8 @@ Agenda
 
 `Parte IIIB`:
 
+**A. Otiniano**, **J. Andrade**, **C. Geraldino**, **R. Pérez**
+
 1. Machine Learning Aplicado a Aguas Superficiales.
 2. Machine Learning No Supervisado en Clusterización Geoquímica.
 3. Artificial Neural Networks aplicado a Peligros Geológicos.
